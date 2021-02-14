@@ -1,2 +1,5 @@
-# RactiveKata
-Kata for using Ractive
+# WebExercises
+
+General web exercises:
+
+* [RactiveKata](RactiveKata)
